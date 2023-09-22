@@ -6,7 +6,7 @@ The two primary issues involved in magnetic levitation are lifting forces: provi
 
 Magnetic levitation is used for maglev trains, contactless melting, magnetic bearings, and for product display purposes.
 
-[Wikioedia](https://en.wikipedia.org/wiki/Magnetic_levitation)
+[Wikipedia](https://en.wikipedia.org/wiki/Magnetic_levitation)
 
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Maglev_june2005.jpg/220px-Maglev_june2005.jpg">
